@@ -1,3 +1,4 @@
 <Response>
+  <script>window._wordtune_extension_installed = true;</script>
   <Say voice="alice">There is a visitor waiting at the gate. Please press 1 to allow, 2 to deny, or 3 to leave the parcel at the gate.</Say>
 </Response>
